@@ -1,0 +1,3 @@
+<footer>
+	Footer-comune
+</footer>
