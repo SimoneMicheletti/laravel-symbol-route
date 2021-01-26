@@ -18,4 +18,4 @@ Route::get('/', function () {
 });
 
 Route::get('/pagamenti' , 'MainController@pagamenti') -> name('pagamenti');
-Route::get('/pagamentipending' , 'MainController@pagamentipending') -> name('pagamenti');
+Route::get('/pagamentipending' , 'MainController@pagamentipending') -> name('pagamentipending');
